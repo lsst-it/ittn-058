@@ -1,0 +1,9 @@
+% bibentry template for lsst.bib in https://github.com/lsst/lsst-texmf/blob/main/texmf/bibtex/bib/lsst.bib
+
+@DocuShare{ITTN-058,
+   author = { Cristian Silva },
+    title = {Disaster Recovery - Infrastructure Support Devices},
+     year = 2022,
+    month = Mar,
+   handle = {ITTN-058},
+      url = {https://ittn-058.lsst.io } }
